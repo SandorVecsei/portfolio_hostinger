@@ -61,6 +61,9 @@ export function HeroSection() {
           <Link href="/studio" className="btn btn-secondary">
             Meet the studio
           </Link>
+          <Link href="/drive" className="btn btn-secondary">
+            Play drive mode
+          </Link>
         </motion.div>
       </div>
     </section>
